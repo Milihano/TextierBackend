@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": null,
-    "database": "textier_database_development",
+    "database": "textier_db",
     "host": "localhost",
     "port":"3306",
     "dialect": "mysql"
